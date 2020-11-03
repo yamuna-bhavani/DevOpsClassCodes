@@ -202,7 +202,7 @@
 					<user>root</user>
 					<password>Yamuna@123</password>
 					<locations>
-						<location>fliesystem:db/migration</location>
+						<location>classpath:db/migration</location>
 					</locations>
 				</configuration>
 			</plugin>
