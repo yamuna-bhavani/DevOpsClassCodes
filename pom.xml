@@ -197,7 +197,7 @@
 				<version>4.0.3</version>
 				<configuration>
 					<baselineOnMigrate>true</baselineOnMigrate>
-					<url>jdbc:mysql://127.0.0.1:3306/database2</url>
+					<url>jdbc:mysql://localhost:3306/Flyway</url>
 
 					<user>root</user>
 					<password>Yamuna@123</password>
