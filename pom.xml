@@ -202,7 +202,7 @@
 					<user>root</user>
 					<password>Yamuna@123</password>
 					<locations>
-						<location>classpath:db/migration</location>
+						<location>filesystem:db/migration</location>
 					</locations>
 				</configuration>
 			</plugin>
