@@ -8,7 +8,12 @@ public class GenericResourceBundle {
 		ResourceBundle rb = ResourceBundle.getBundle("ResourceBundle");
 		Enumeration <String> keys = rb.getKeys();
 		String value="";
-		
+		//test
+		while (keys.hasMoreElements()) {
+			
+			String key =  keys.nextElement();
+			
+		}
 		return value;
 	}
 	
